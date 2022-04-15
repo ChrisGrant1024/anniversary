@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Gelasio:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+    background-color: aliceblue;
+    font-family: 'Gelasio', serif;
+    font-size: 22px;
+}
+
+#container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    text-align: center;
+}
+
+#anniversary {
+    font-weight: bold;
+    font-size: 48px;
+}
+
+#next-anniversary {
+    font-weight: bold;
+    font-size: 36px;
+
+}
